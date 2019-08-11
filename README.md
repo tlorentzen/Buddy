@@ -39,3 +39,7 @@
 ## Job opportunities
 * [Jobs at AAU](https://jobbank.aau.dk/)
 * [JobIndex](https://www.jobindex.dk/?lang=en)
+
+## Buy and sell
+* [DBA](https://www.dba.dk/)
+* [Gul og Gratis](https://www.guloggratis.dk/)
