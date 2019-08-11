@@ -1,10 +1,14 @@
 # Buddy
 
+## What to see and do
+
+
 ## Where to eat and drink
 * Elikas (Pizza)
 * [Resturant Flammen (Buffet)](https://www.restaurant-flammen.dk/en/) 
 * [Sanya (Buffet)](https://restaurantsanya.dk/)
 * [Burger Shack](https://burgershack.dk/)
+* [Cafe Visa]
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
