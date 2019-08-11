@@ -15,6 +15,7 @@
 * [Aalborg Tårnet](http://aalborgtaarnet.dk/en/welcome/)
 * [Musikkens hus](https://www.musikkenshus.dk/)
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
+* [Kino (Cinema)](https://www.kino.dk/)
 
 ## Where to eat and drink
 * Elikas (Pizza)
