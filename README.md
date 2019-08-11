@@ -13,6 +13,8 @@
 * [Kunsten](https://kunsten.dk/en)
 * [Utzon Center](https://utzoncenter.dk/en)
 * [Aalborg Tårnet](http://aalborgtaarnet.dk/en/welcome/)
+* [Musikkens hus](https://www.musikkenshus.dk/)
+* [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
 
 ## Where to eat and drink
 * Elikas (Pizza)
@@ -43,3 +45,6 @@
 ## Buy and sell
 * [DBA](https://www.dba.dk/)
 * [Gul og Gratis](https://www.guloggratis.dk/)
+
+## Other
+* [Skat (Tax)](https://www.skat.dk/?lang=us)
