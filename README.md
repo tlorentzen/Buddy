@@ -1,22 +1,27 @@
 # Buddy
 
 ## What to see and do
-* Salling Rooftop
+* [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
 * Kennedy
-* Nordkraft
+* [Nordkraft](https://nordkraft.dk/forside.aspx)
 * Karolinelund
-* Jomfru Ane Gade (Party Street)
+* [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
 * Walking Street
-* Habour
-* Vestre Fjordpark (Friluftsbad)
-* Fårup Sommerland (Amusement park)
+* Harbour front
+* [Vestre Fjordpark (Open air swimming pool)](https://www.visitaalborg.com/ln-int/vestre-fjordpark-gdk596122)
+* [Fårup Sommerland (Amusement park)](https://www.faarupsommerland.dk/en/)
+* [Kunsten](https://kunsten.dk/en) 
+* [Utzon Center](https://utzoncenter.dk/en)
+* [Aalborg Tårnet](http://aalborgtaarnet.dk/en/welcome/)
+* 
 
 ## Where to eat and drink
 * Elikas (Pizza)
 * [Restaurant Flammen (Buffet)](https://www.restaurant-flammen.dk/en/) 
 * [Sanya (Buffet)](https://restaurantsanya.dk/)
 * [Burger Shack](https://burgershack.dk/)
-* [Cafe Visa]
+* [Cafe Visa](https://cafevisa.dk/)
+* [Street Food](https://www.visitaalborg.com/ln-int/aalborg-street-food-lighthouse-gdk1090004)
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
