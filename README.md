@@ -5,7 +5,7 @@
 
 ## Where to eat and drink
 * Elikas (Pizza)
-* [Resturant Flammen (Buffet)](https://www.restaurant-flammen.dk/en/) 
+* [Resturant Flammen (Buffet)](https://www.restaurant-flammen.dk/en/)
 * [Sanya (Buffet)](https://restaurantsanya.dk/)
 * [Burger Shack](https://burgershack.dk/)
 * [Cafe Visa]
@@ -20,3 +20,7 @@
 ## Language lessons
 * [Learning Danish at AAU](https://www.isu.aau.dk/working-at-aalborg-university/Learning+Danish+at+AAU)
 * [Languagecenter Aalborg](https://sprogcenter.aalborg.dk/english)
+
+## Job opportunities
+* [Jobs at AAU](https://jobbank.aau.dk/da/)
+* [JobIndex](https://www.jobindex.dk/?lang=en)
