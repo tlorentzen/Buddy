@@ -37,5 +37,5 @@
 * [Languagecenter Aalborg](https://sprogcenter.aalborg.dk/english)
 
 ## Job opportunities
-* [Jobs at AAU](https://jobbank.aau.dk/da/)
+* [Jobs at AAU](https://jobbank.aau.dk/)
 * [JobIndex](https://www.jobindex.dk/?lang=en)
