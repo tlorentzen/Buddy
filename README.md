@@ -10,8 +10,8 @@
 * Harbour front
 * [Vestre Fjordpark (Open air swimming pool)](https://www.visitaalborg.com/ln-int/vestre-fjordpark-gdk596122)
 * [Fårup Sommerland (Amusement park)](https://www.faarupsommerland.dk/en/)
-* [Kunsten](https://kunsten.dk/en)
-* [Utzon Center](https://utzoncenter.dk/en)
+* [Kunsten (Museum)](https://kunsten.dk/en)
+* [Utzon Center (Museum)](https://utzoncenter.dk/en)
 * [Aalborg Tårnet](http://aalborgtaarnet.dk/en/welcome/)
 * [Musikkens hus](https://www.musikkenshus.dk/)
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
