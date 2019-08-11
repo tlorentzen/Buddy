@@ -13,7 +13,6 @@
 * [Kunsten](https://kunsten.dk/en) 
 * [Utzon Center](https://utzoncenter.dk/en)
 * [Aalborg Tårnet](http://aalborgtaarnet.dk/en/welcome/)
-* 
 
 ## Where to eat and drink
 * Elikas (Pizza)
@@ -22,6 +21,7 @@
 * [Burger Shack](https://burgershack.dk/)
 * [Cafe Visa](https://cafevisa.dk/)
 * [Street Food](https://www.visitaalborg.com/ln-int/aalborg-street-food-lighthouse-gdk1090004)
+* [Nadias (Sandwich)](https://nadias.dk/)
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
