@@ -17,6 +17,7 @@
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
 * [Kino (Cinema)](https://www.kino.dk/)
 * [Aalborg Carnival (largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
+* [Nibe Festival](https://nibefestival.dk/forside.aspx)
 
 ## Where to eat and drink
 * Elikas (Pizza)
