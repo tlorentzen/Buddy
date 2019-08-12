@@ -21,6 +21,7 @@
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
 * [Studenterhuset](https://studenterhuset.dk/en/)
 * City Syd (Shopping Area)
+* [Gigantium](https://gigantium.dk/)
 
 ## Where to eat and drink
 * Elikas (Pizza)
@@ -33,6 +34,14 @@
 * [Fabrikken (Bar)](https://www.jomfruanegade.dk/brands/fabrikken/)
 * [Cafe Guldhornene (Bar)](https://www.cafeguldhornene.dk/)
 * [Zurf (Bar)](https://zurfbar.dk/)
+
+## Sport and exercise
+* [UniFitness](https://www.en.unifitness.aau.dk/)
+* [Nørresundby Idrætscenter](http://nsbic.dk/)
+* [Fitnessworld](https://www.fitnessworld.com/dk2/)
+* [Sats](https://www.sats.com/fitnesscenter/jylland/sats-aalborg-bispensgade/)
+* [Gigantium (Close to campus)](https://gigantium.dk/)
+* [DGI Huset - Nordkraft](https://dgihusetnordkraft.dk/)
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
