@@ -19,6 +19,7 @@
 * [Aalborg Carnival (Largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
 * [Nibe Festival](https://nibefestival.dk/forside.aspx)
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
+* [Studenterhuset](https://studenterhuset.com/en/)
 
 ## Where to eat and drink
 * Elikas (Pizza)
@@ -52,6 +53,10 @@
 ## Buy and sell
 * [DBA](https://www.dba.dk/)
 * [Gul og Gratis](https://www.guloggratis.dk/)
+
+## Facebook groups
+* [Aalborg University, Buddy Program Autumn 2019](https://www.facebook.com/groups/2806775106063341/)
+* [Aalborg Students](https://www.facebook.com/groups/289064897913747/)
 
 ## Other
 * [Skat (Tax)](https://www.skat.dk/?lang=us)
