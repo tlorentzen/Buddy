@@ -4,9 +4,9 @@
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
 * [Kennedy Arkaden (Transitcenter - Bus and Train)](https://www.kennedyarkaden.dk/)
 * [Nordkraft](https://nordkraft.dk/forside.aspx)
-* Karolinelund
+* [Karolinelund](https://www.visitaalborg.com/ln-int/karolinelund-gdk805751)
 * [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
-* Walking Street
+* [Bispensgade (Shopping Street)](https://www.visitaalborg.com/ln-int/bispensgade-aalborg-gdk1094618)
 * Harbour front
 * [Vestre Fjordpark (Open air swimming pool)](https://www.visitaalborg.com/ln-int/vestre-fjordpark-gdk596122)
 * [Fårup Sommerland (Amusement park)](https://www.faarupsommerland.dk/en/)
@@ -20,6 +20,7 @@
 * [Nibe Festival](https://nibefestival.dk/forside.aspx)
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
 * [Studenterhuset](https://studenterhuset.com/en/)
+* City Syd (Shopping Area)
 
 ## Where to eat and drink
 * Elikas (Pizza)
