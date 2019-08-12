@@ -7,7 +7,7 @@
 * [Karolinelund](https://www.visitaalborg.com/ln-int/karolinelund-gdk805751)
 * [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
 * [Bispensgade (Shopping Street)](https://www.visitaalborg.com/ln-int/bispensgade-aalborg-gdk1094618)
-* Harbour front
+* [Aalborg waterfront](https://www.visitaalborg.com/ln-int/aalborg/aalborgs-waterfront)
 * [Vestre Fjordpark (Open air swimming pool)](https://www.visitaalborg.com/ln-int/vestre-fjordpark-gdk596122)
 * [Fårup Sommerland (Amusement park)](https://www.faarupsommerland.dk/en/)
 * [Kunsten (Museum)](https://kunsten.dk/en)
