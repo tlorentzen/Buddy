@@ -22,6 +22,7 @@
 * [Studenterhuset](https://studenterhuset.dk/en/)
 * City Syd (Shopping Area)
 * [Gigantium](https://gigantium.dk/)
+* [Aalborg Zoo](https://aalborgzoo.dk/frontpage.aspx)
 
 ## Where to eat and drink
 * Elikas (Pizza)
