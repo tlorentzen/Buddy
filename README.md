@@ -16,8 +16,9 @@
 * [Musikkens hus](https://www.musikkenshus.dk/)
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
 * [Kino (Cinema)](https://www.kino.dk/)
-* [Aalborg Carnival (largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
+* [Aalborg Carnival (Largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
 * [Nibe Festival](https://nibefestival.dk/forside.aspx)
+* [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
 
 ## Where to eat and drink
 * Elikas (Pizza)
@@ -27,10 +28,13 @@
 * [Cafe Visa](https://cafevisa.dk/)
 * [Street Food](https://www.visitaalborg.com/ln-int/aalborg-street-food-lighthouse-gdk1090004)
 * [Nadias (Sandwich)](https://nadias.dk/)
+* [Fabrikken (Bar)](https://www.jomfruanegade.dk/brands/fabrikken/)
+* [Cafe Guldhornene (Bar)](https://www.cafeguldhornene.dk/)
+* [Zurf (Bar)](https://zurfbar.dk/)
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
-* [Rejseplanen (journey planner)](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
+* [Rejseplanen (Journey planner)](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
 * [Nordjyllandstrafikselskab (Bus)](https://www.nordjyllandstrafikselskab.dk/English/General-Info)
 * [DSB (Train)](https://www.dsb.dk/en/)
 * [Aalborg airport](https://www.aal.dk/passenger)
@@ -51,6 +55,3 @@
 
 ## Other
 * [Skat (Tax)](https://www.skat.dk/?lang=us)
-
-## Test
-[I'm a relative reference to a repository file](buy-and-sell.md)
