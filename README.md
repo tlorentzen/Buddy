@@ -29,7 +29,7 @@
 
 ## Public transportation
 * [Rejsekort](https://www.rejsekort.dk/?sc_lang=en)
-* [Rejseplanen](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
+* [Rejseplanen (journey planner)](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
 * [Nordjyllandstrafikselskab (Bus)](https://www.nordjyllandstrafikselskab.dk/English/General-Info)
 * [DSB (Train)](https://www.dsb.dk/en/)
 * [Aalborg airport](https://www.aal.dk/passenger)
