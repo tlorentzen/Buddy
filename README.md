@@ -50,3 +50,6 @@
 
 ## Other
 * [Skat (Tax)](https://www.skat.dk/?lang=us)
+
+## Test
+[I'm a relative reference to a repository file](buy-and-sell.md)
