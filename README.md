@@ -19,7 +19,7 @@
 * [Aalborg Carnival (Largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
 * [Nibe Festival](https://nibefestival.dk/forside.aspx)
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
-* [Studenterhuset](https://studenterhuset.com/en/)
+* [Studenterhuset](https://studenterhuset.dk/en/)
 * City Syd (Shopping Area)
 
 ## Where to eat and drink
