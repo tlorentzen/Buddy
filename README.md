@@ -16,7 +16,7 @@
 * [Musikkens hus](https://www.musikkenshus.dk/)
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
 * [Kino (Cinema)](https://www.kino.dk/)
-* [Aalborg Carnival](https://www.aalborgkarneval.dk/en/home/) 
+* [Aalborg Carnival (largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
 
 ## Where to eat and drink
 * Elikas (Pizza)
