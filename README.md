@@ -2,7 +2,7 @@
 
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
-* Kennedy
+* [Kennedy Arkaden (Transitcenter - Bus and Train)](https://www.kennedyarkaden.dk/)
 * [Nordkraft](https://nordkraft.dk/forside.aspx)
 * Karolinelund
 * [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
@@ -16,6 +16,7 @@
 * [Musikkens hus](https://www.musikkenshus.dk/)
 * [Aalborg Kongres & Kultur Center (AKKC)](https://uk.akkc.dk/)
 * [Kino (Cinema)](https://www.kino.dk/)
+* [Aalborg Carnival](https://www.aalborgkarneval.dk/en/home/) 
 
 ## Where to eat and drink
 * Elikas (Pizza)
