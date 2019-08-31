@@ -57,6 +57,7 @@
 ## Language lessons
 * [Learning Danish at AAU](https://www.isu.aau.dk/working-at-aalborg-university/Learning+Danish+at+AAU)
 * [Languagecenter Aalborg](https://sprogcenter.aalborg.dk/english)
+* [Elsk Aalborg International](https://www.facebook.com/elskaalborginternational/)
 
 ## Job opportunities
 * [Jobs at AAU](https://jobbank.aau.dk/)
