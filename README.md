@@ -32,6 +32,7 @@
 * [Cafe Visa](https://cafevisa.dk/)
 * [Street Food](https://www.visitaalborg.com/ln-int/aalborg-street-food-lighthouse-gdk1090004)
 * [Nadias (Sandwich)](https://nadias.dk/)
+* [Zwei Grosse (Bar)](http://zweigrosse.dk/lokationer/aalborg.aspx)
 * [Fabrikken (Bar)](https://www.jomfruanegade.dk/brands/fabrikken/)
 * [Cafe Guldhornene (Bar)](https://www.cafeguldhornene.dk/)
 * [Zurf (Bar)](https://zurfbar.dk/)
