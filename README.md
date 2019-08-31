@@ -1,4 +1,5 @@
 # Buddy
+This is a list made for international students moving to Aalborg. Here you can find places to eat, drink and experience Aalborg. The list is made based on the personal experiences of its creators and will be updated.
 
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
