@@ -3,7 +3,7 @@ This is a list made for international students moving to Aalborg. Here you can f
 
 ## Corona (COVID-19)
 * [Coronasmitte](https://en.coronasmitte.dk/)
-* [COVID-19 Dashboard](https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d)
+* [COVID-19 Dashboard (Denmark)](https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d)
 
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
