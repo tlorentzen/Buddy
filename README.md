@@ -78,6 +78,8 @@ This is a list made for international students moving to Aalborg. Here you can f
 
 ## Facebook groups
 * [Aalborg Students](https://www.facebook.com/groups/289064897913747/)
+* [International Office - Aalborg University](https://www.facebook.com/InternationalOfficeAalborgUniversity)
+
 
 ## Other
 * [Skat (Tax)](https://www.skat.dk/?lang=us)
