@@ -73,7 +73,6 @@ This is a list made for international students moving to Aalborg. Here you can f
 * [Gul og Gratis](https://www.guloggratis.dk/)
 
 ## Facebook groups
-* [Aalborg University, Buddy Program Autumn 2019](https://www.facebook.com/groups/2806775106063341/)
 * [Aalborg Students](https://www.facebook.com/groups/289064897913747/)
 
 ## Other
