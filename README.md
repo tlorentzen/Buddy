@@ -37,7 +37,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Studenterhuset](https://studenterhuset.dk/en/)
 * [City Syd (Shopping Area)](https://www.visitaalborg.com/aalborg/plan-your-trip/city-syd-aalborg-gdk1113600)
 * [Gigantium](https://gigantium.dk/)
-* [Aalborg Zoo](https://aalborgzoo.dk/frontpage.aspx)
+* [Aalborg Zoo](https://aalborgzoo.dk/)
 * [Seaport (Bowling)](https://seaport.dk/)
 * [Maximum - Bowl'n'Fun (Bowling and more)](https://www.visitaalborg.com/aalborg/plan-your-trip/maximum-bowlnfun-gdk1116157) 
 
