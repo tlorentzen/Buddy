@@ -10,12 +10,13 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Aalborg University - Corona Information (All Students)](https://www.aau.dk/coronavirus/)
 * [Aalborg University - Corona Information (International Students)](https://www.en.aau.dk/education/apply/COVID19/)
 
-
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
 * [Kennedy Arkaden (Transitcenter - Bus and Train)](https://www.kennedyarkaden.dk/)
 * [Nordkraft](https://nordkraft.dk/forside.aspx)
 * [Karolinelund (Park)](https://www.visitaalborg.com/ln-int/karolinelund-gdk805751)
+* [Østre Anlæg (Park)](https://www.visitaalborg.com/aalborg/plan-your-trip/park-ostre-anlaeg-gdk596082)
+* [Kildeparken (Park)](https://www.visitaalborg.com/aalborg/plan-your-trip/kildeparken-gdk596185)
 * [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
 * [Bispensgade (Shopping Street)](https://www.visitaalborg.com/ln-int/bispensgade-aalborg-gdk1094618)
 * [Aalborg waterfront](https://www.visitaalborg.com/ln-int/aalborg/aalborgs-waterfront)
