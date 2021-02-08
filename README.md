@@ -61,7 +61,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Rejseplanen (Journey planner)](https://www.rejseplanen.dk/webapp/index.html?language=en_EN)
 * [Nordjyllandstrafikselskab (Bus)](https://www.nordjyllandstrafikselskab.dk/English/General-Info)
 * [DSB (Train)](https://www.dsb.dk/en/)
-* [Aalborg airport](https://www.aal.dk/passenger)
+* [Aalborg airport](https://www.aal.dk/frontpage)
 * [Gomore (Ridesharing)](https://gomore.dk/)
 * [Flixbus](https://flixbus.com/)
 
