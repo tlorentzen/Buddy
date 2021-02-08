@@ -32,7 +32,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Roskilde Festival (Biggest in Denmark)](https://www.roskilde-festival.dk/en/)
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
 * [Studenterhuset](https://studenterhuset.dk/en/)
-* City Syd (Shopping Area)
+* [City Syd (Shopping Area)](https://www.visitaalborg.com/aalborg/plan-your-trip/city-syd-aalborg-gdk1113600)
 * [Gigantium](https://gigantium.dk/)
 * [Aalborg Zoo](https://aalborgzoo.dk/frontpage.aspx)
 
