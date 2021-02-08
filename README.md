@@ -1,6 +1,8 @@
 # Buddy
 This is a list made for international students moving to Aalborg and was initiated 2019. Here, you can find places to eat, drink and experience Aalborg. The list is made based on the personal experiences of its creators and will be updated.
 
+[Aalborg – a cozy little big city](https://www.visitaalborg.com/corporate/press/little-big-city)
+
 ## Corona (COVID-19)
 * [Coronasmitte (Information)](https://en.coronasmitte.dk/)
 * [COVID-19 Dashboard (Denmark)](https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d)
