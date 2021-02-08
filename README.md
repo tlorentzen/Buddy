@@ -1,6 +1,10 @@
 # Buddy
 This is a list made for international students moving to Aalborg. Here you can find places to eat, drink and experience Aalborg. The list is made based on the personal experiences of its creators and will be updated.
 
+## Corona
+* [Coronasmitte](https://en.coronasmitte.dk/)
+* [COVID-19 Dashboard](https://experience.arcgis.com/experience/aa41b29149f24e20a4007a0c4e13db1d)
+
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
 * [Kennedy Arkaden (Transitcenter - Bus and Train)](https://www.kennedyarkaden.dk/)
