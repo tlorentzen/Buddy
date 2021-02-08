@@ -8,6 +8,8 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Corona tests](https://coronaprover.dk)
 * [Ministry of Foreign Affairs of Denmark](https://um.dk/en)
 * [Aalborg University - Corona](https://www.aau.dk/coronavirus/)
+* [Aalborg University - Corona Information for International Students](https://www.en.aau.dk/education/apply/COVID19/)
+
 
 ## What to see and do
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
