@@ -30,7 +30,6 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Aalborg Carnival (Largest carnival in Northern Europe)](https://www.aalborgkarneval.dk/en/home/) 
 * [Nibe Festival (Close to Aalborg)](https://nibefestival.dk/forside.aspx)
 * [Roskilde Festival (Biggest in Denmark)](https://www.roskilde-festival.dk/en/)
-
 * [Aalborg Theatre](https://aalborgteater.dk/english-aalborg-theatre/)
 * [Studenterhuset](https://studenterhuset.dk/en/)
 * City Syd (Shopping Area)
