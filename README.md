@@ -1,5 +1,5 @@
 # Buddy
-This is a list made for international students moving to Aalborg. Here you can find places to eat, drink and experience Aalborg. The list is made based on the personal experiences of its creators and will be updated.
+This is a list made for international students moving to Aalborg and was initiated 2019. Here, you can find places to eat, drink and experience Aalborg. The list is made based on the personal experiences of its creators and will be updated.
 
 ## Corona (COVID-19)
 * [Coronasmitte (Information)](https://en.coronasmitte.dk/)
