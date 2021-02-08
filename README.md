@@ -7,7 +7,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Danish Health Authority](https://www.sst.dk/en/English)
 * [Corona tests](https://coronaprover.dk)
 * [Ministry of Foreign Affairs of Denmark](https://um.dk/en)
-* [Aalborg University - Corona](https://www.aau.dk/coronavirus/)
+* [Aalborg University - Corona Information (All Students)](https://www.aau.dk/coronavirus/)
 * [Aalborg University - Corona Information for International Students](https://www.en.aau.dk/education/apply/COVID19/)
 
 
