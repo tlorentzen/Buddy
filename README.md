@@ -47,7 +47,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Zurf (Bar)](https://zurfbar.dk/)
 
 ## Sport and exercise
-* [UniFitness](https://www.en.unifitness.aau.dk/)
+* [UniFitness (At the east compus)](https://www.en.unifitness.aau.dk/)
 * [Nørresundby Idrætscenter](http://nsbic.dk/)
 * [Fitnessworld](https://www.fitnessworld.com/dk2/)
 * [Sats](https://www.sats.com/fitnesscenter/jylland/sats-aalborg-bispensgade/)
