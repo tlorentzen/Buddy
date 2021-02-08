@@ -15,7 +15,7 @@ This is a list made for international students moving to Aalborg and was initiat
 * [Salling Rooftop](https://salling.dk/madoplevelser/salling-rooftop-aalborg/)
 * [Kennedy Arkaden (Transitcenter - Bus and Train)](https://www.kennedyarkaden.dk/)
 * [Nordkraft](https://nordkraft.dk/forside.aspx)
-* [Karolinelund](https://www.visitaalborg.com/ln-int/karolinelund-gdk805751)
+* [Karolinelund (Park)](https://www.visitaalborg.com/ln-int/karolinelund-gdk805751)
 * [Jomfru Ane Gade (Party Street)](https://www.visitaalborg.com/ln-int/jomfru-ane-gade-gdk596155)
 * [Bispensgade (Shopping Street)](https://www.visitaalborg.com/ln-int/bispensgade-aalborg-gdk1094618)
 * [Aalborg waterfront](https://www.visitaalborg.com/ln-int/aalborg/aalborgs-waterfront)
